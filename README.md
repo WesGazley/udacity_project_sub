@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Westley Udacity get project
 
 ### Description
-Describe what your project is about and what it does
+This project is about my knowledge over version control and git bash
 
 ### Files used
 Include the files used
