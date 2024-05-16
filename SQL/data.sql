@@ -39,3 +39,7 @@ GROUP  BY f.title,
           c.NAME
 ORDER  BY c.NAME,
           f.title;
+/*Answer to the question is s we can see from the titles that are 
+considered family friend, the catogories 
+are relitively close with Family leading 
+followed closly by Animation.
