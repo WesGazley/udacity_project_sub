@@ -1,4 +1,4 @@
--- Question 1 We want to understand more about the movies that families are watching.
+-- Question 1 We want to understand more about the movies that families are watching. Project date complete 04/28/24
 
  /* SELECT 
     f.title,
